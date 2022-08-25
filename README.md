@@ -103,21 +103,21 @@ Please read [UAL's guidance for students on how they will be assessed](https://w
 
 - **Coding One**: Swift and Swift UI:
 
- 1. Code application development assets in Swift (Knowledge, Process)
- 2. Demonstrate the use of the Swift GUI frameworks for application development (Knowledge, Process)
- 3. Use Xcode and online repository tools to collaborate and support your development process and manage your code (Knowledge, Process)
+  1. Code application development assets in Swift (Knowledge, Process)
+  2. Demonstrate the use of the Swift GUI frameworks for application development (Knowledge, Process)
+  3. Use Xcode and online repository tools to collaborate and support your development process and manage your code (Knowledge, Process)
 
 - **Product One**: Team App Design, User Experience Research and Rapid prototyping:
 
- 1. Describe and communicate an iOS app concept (Knowledge, Communication)
- 2. Employ relevant methods of user research (Enquiry, Process)
- 3. Produce iOS application prototypes (Realisation)
+  1. Describe and communicate an iOS app concept (Knowledge, Communication)
+  2. Employ relevant methods of user research (Enquiry, Process)
+  3. Produce iOS application prototypes (Realisation)
 
 - **ML One**: Introducing Machine Learning with Core ML.
 
- 1. Describe how machine learning works in practice (Knowledge)
- 2. Discuss artificial Intelligence as a cultural concept (Enquiry)
- 3. Construct applications with the Core ML framework (Process)
+  1. Describe how machine learning works in practice (Knowledge)
+  2. Discuss artificial Intelligence as a cultural concept (Enquiry)
+  3. Construct applications with the Core ML framework (Process)
 
 ### Block 2
 
@@ -125,21 +125,21 @@ Block 2 consists of three units, studied in parallel:
 
 - **Coding Two**: Further Apple Frameworks.  
 
- 1. Identify how games are developed on iOS (Process)
- 2. Employ game development tools and frameworks for iOS (Enquiry)
- 3. Demonstrate foundational concepts of games design (Knowledge)
+  1. Identify how games are developed on iOS (Process)
+  2. Employ game development tools and frameworks for iOS (Enquiry)
+  3. Demonstrate foundational concepts of games design (Knowledge)
 
 - **Product Two**: Individual App Design and Launch.
 
- 1. Describe what makes a successful app (Knowledge, Process, Communication)
- 2. Describe the process of launching on the Apple App store (Enquiry)
- 3. Solve common development problems in app production (Realisation)
+  1. Describe what makes a successful app (Knowledge, Process, Communication)
+  2. Describe the process of launching on the Apple App store (Enquiry)
+  3. Solve common development problems in app production (Realisation)
 
 - **ML Two**: Making Models with Create ML.
 
- 1. Describe how to build ML models (Knowledge, Communication)
- 2. Demonstrate how to use the create ML framework (Process)
- 3. Describe approaches to evaluate your model for bias and discrimination (Enquiry)
+  1. Describe how to build ML models (Knowledge, Communication)
+  2. Demonstrate how to use the create ML framework (Process)
+  3. Describe approaches to evaluate your model for bias and discrimination (Enquiry)
 
 ## Assessment
 
