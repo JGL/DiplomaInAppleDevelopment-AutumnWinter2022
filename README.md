@@ -14,8 +14,8 @@ Lecture slides, wiki and examples from Block 1 of the [Creative Computing Instit
     - Block 1: Coding One: Swift and Swift UI
     - Block 2: Coding Two: Further Apple Frameworks
   - Thursday: 1430-1830, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501-01.
-    - Block 1: Coding One: Swift and Swift UI
-    - Block 2: Coding Two: Further Apple Frameworks
+    - Block 1: ML 1: Introducing Machine Learning with Core ML
+    - Block 2: ML 2: Making Models with Create ML
   - Friday: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501-01.
     - Block 1: Coding One: Swift and Swift UI
     - Block 2: Coding Two: Further Apple Frameworks  
