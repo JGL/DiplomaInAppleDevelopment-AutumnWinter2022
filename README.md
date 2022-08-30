@@ -14,11 +14,11 @@ Lecture slides, wiki and examples from Block 1 of the [Creative Computing Instit
     - Block 1: Coding One: Swift and Swift UI
     - Block 2: Coding Two: Further Apple Frameworks
   - Thursday: 1430-1830, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501-01.
-    - Block 1: ML 1: Introducing Machine Learning with Core ML
-    - Block 2: ML 2: Making Models with Create ML
+    - Block 1: ML One: Introducing Machine Learning with Core ML
+    - Block 2: ML Two: Making Models with Create ML
   - Friday: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501-01.
-    - Block 1: Coding One: Swift and Swift UI
-    - Block 2: Coding Two: Further Apple Frameworks  
+    - Block 1: Product One: Individual App Design and Launch.
+    - Block 2: Product Two: Further Apple Frameworks  
 - _**You are expected to undertake independent study of about 25 hours per week - spread across all the units of  the Diploma in Apple Development.**_
 - [Lecture and Workshop slides](https://jgl.github.io/DiplomaInAppleDevelopment-AutumnWinter2022/)
 - Please see the [course wiki for all non-lecture notes, reading lists and other resources](https://github.com/JGL/DiplomaInAppleDevelopment-AutumnWinter2022/wiki).
