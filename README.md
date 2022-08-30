@@ -1,6 +1,6 @@
 # DiplomaInAppleDevelopment-AutumnWinter2022
 
-Lecture slides, wiki and examples from Block 1 of the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s  2022/2023 [Diploma in Apple Development](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-diploma-in-apple-development).
+Lecture slides, wiki and examples from Block 1 of the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s  2022/2023 [Diploma in Apple Development 🍎👩🏻‍💻](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-diploma-in-apple-development).
 
 ## Information
 
@@ -13,10 +13,10 @@ Lecture slides, wiki and examples from Block 1 of the [Creative Computing Instit
   - Tuesday: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501-01.
     - Block 1: Coding One: Swift and Swift UI
     - Block 2: Coding Two: Further Apple Frameworks
-  - Thursday: 1430-1830, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501-01.
+  - Thursday: 1430-1730, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501-03.
     - Block 1: ML One: Introducing Machine Learning with Core ML
     - Block 2: ML Two: Making Models with Create ML
-  - Friday: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501-01.
+  - Friday: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501-03.
     - Block 1: Product One: Individual App Design and Launch.
     - Block 2: Product Two: Further Apple Frameworks  
 - _**You are expected to undertake independent study of about 25 hours per week - spread across all the units of  the Diploma in Apple Development.**_
@@ -27,7 +27,7 @@ Lecture slides, wiki and examples from Block 1 of the [Creative Computing Instit
 
 You can find the UAL Disciplinary Code For Students here: [Disciplinary Code For Students](https://www.arts.ac.uk/study-at-ual/academic-regulations/student-regulations/disciplinary-code-for-students).
 
-You can find our code of conduct here: [code_of_conduct.md](CODE_OF_CONDUCT.md), it was cloned from [https://github.com/processing/p5.js/blob/main/CODE_OF_CONDUCT.md](the p5.js code of conduct).
+You can find our code of conduct here: [code_of_conduct.md](CODE_OF_CONDUCT.md), it was cloned from <https://github.com/processing/p5.js/blob/main/CODE_OF_CONDUCT.md>.
 
 [Golan Levin](https://www.flong.com/) also offers a useful thought from his children's school:
 
@@ -46,7 +46,7 @@ As mentioned above, The [Diploma in Apple Development](https://www.arts.ac.uk/su
 
 ![Course Structure Image](/CourseDiagram.png)
 
-### Block 1
+### Block 1 Structure
 
 Block 1 consists of three units, with Coding One and Product One taught in parallel, with ML One weighted to the second half of Block 1.
 
@@ -54,13 +54,15 @@ Block 1 consists of three units, with Coding One and Product One taught in paral
 - **Product One**: Team App Design, User Experience Research and Rapid prototyping. Drawing on Apple’s "Develop in Swift Explorations" curriculum.  This unit explores the process of designing apps for the iOS platform and introduces UX methodologies, collaborative development approaches and high-fidelity prototyping using Apple tools. Taught by Joel Gethin Lewis.
 - **ML One**: Introducing Machine Learning with Core ML. The unit is a mix of practical tasks introducing the core Apple ML frameworks and seminars that look at emerging practice across the arts and creative industries that employ some level of artificial intelligence. Taught by TBC.
 
-### Block 2
+### Block 2 Structure
 
 Block 2 consists of three units, studied in parallel:
 
 - **Coding Two**: Further Apple Frameworks. This unit explores further Apple frameworks to develop 2D games. You will gain experience using frameworks such as SpriteKit. Taught by Joel Gethin Lewis and TBC.
 - **Product Two**: Individual App Design and Launch. In this unit you will develop an app concept for Apple’s iOS. This will give you both an understanding of the development process using the standard Apple development tools and build on your Swift learning in an applied context. Taught by Joel Gethin Lewis.
 - **ML Two**: Making Models with Create ML. This unit explores the creation of bespoke Machine Learning models using Apple tools and specifically the Create ML framework. Taught by TBC.
+
+## Assessment
 
 ## UAL-wide assessment criteria
 
@@ -77,73 +79,7 @@ Please read [UAL's guidance for students on how they will be assessed](https://w
 5. **Realisation**
    - Realisation is about the work you create and how this reveals what you’ve learned. It’s taking a look back and evaluating the work you’ve produced.
 
-## Course Aims and Learning Outcomes
-
-### Course Aims
-
-- Introduce Apple development as a complementary technical and creative specialism to your main UAL degree.
-- Develop your skills in Swift coding using Apple, tools and frameworks.
-- Develop computational literacies including an ability to describe the technical requirements of Apple development projects with specialist vocabulary.
-- Enhance your ability to work in multidisciplinary digital teams.
-- Develop computational literacies around Machine leaning approaches and functional AI within the Apple ecosystem.
-- Give you a material understanding of computational technologies.
-
-### Course Learning Outcomes
-
-- Produce Apple development outcomes that show both technical and creative accomplishment
-- Code in Swift and understand the different computational conventions associated with this language.
-- Use Apple development tools to prototype and launch apps
-- Prototype and pitch software applications and interactive experiences.
-- Understand the opportunities that exist as the intersection of your creative practice and computing.
-- Collaborate and use collaborative tools to develop creative software applications.
-
-## Per-Unit Learning Outcomes
-
-### Block 1
-
-- **Coding One**: Swift and Swift UI:
-
-  1. Code application development assets in Swift (Knowledge, Process)
-  2. Demonstrate the use of the Swift GUI frameworks for application development (Knowledge, Process)
-  3. Use Xcode and online repository tools to collaborate and support your development process and manage your code (Knowledge, Process)
-
-- **Product One**: Team App Design, User Experience Research and Rapid prototyping:
-
-  1. Describe and communicate an iOS app concept (Knowledge, Communication)
-  2. Employ relevant methods of user research (Enquiry, Process)
-  3. Produce iOS application prototypes (Realisation)
-
-- **ML One**: Introducing Machine Learning with Core ML.
-
-  1. Describe how machine learning works in practice (Knowledge)
-  2. Discuss artificial Intelligence as a cultural concept (Enquiry)
-  3. Construct applications with the Core ML framework (Process)
-
-### Block 2
-
-Block 2 consists of three units, studied in parallel:
-
-- **Coding Two**: Further Apple Frameworks.  
-
-  1. Identify how games are developed on iOS (Process)
-  2. Employ game development tools and frameworks for iOS (Enquiry)
-  3. Demonstrate foundational concepts of games design (Knowledge)
-
-- **Product Two**: Individual App Design and Launch.
-
-  1. Describe what makes a successful app (Knowledge, Process, Communication)
-  2. Describe the process of launching on the Apple App store (Enquiry)
-  3. Solve common development problems in app production (Realisation)
-
-- **ML Two**: Making Models with Create ML.
-
-  1. Describe how to build ML models (Knowledge, Communication)
-  2. Demonstrate how to use the create ML framework (Process)
-  3. Describe approaches to evaluate your model for bias and discrimination (Enquiry)
-
-## Assessment
-
-### Block 1
+### Block 1 Assessment
 
 - **Coding One**: Swift and Swift UI.
   
@@ -159,7 +95,7 @@ Block 2 consists of three units, studied in parallel:
   1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. (50%)
   2. Presentation: You will give a presentation around a Apple ML model to your peers and upload the ‘slide deck’ from the presentation. (50%)
 
-### Block 2
+### Block 2 Assessment
 
 Block 2 consists of three units, studied in parallel:
 
@@ -183,6 +119,72 @@ Finally, some tips about how to get the best grades possible:
 - Do more than is requested in the brief.
 - Make it personal! Add your own graphics, text or other elements to make an app that only you could make. Make apps that you want to use.
 
+## Course Aims and Learning Outcomes
+
+### Course Aims
+
+- Introduce Apple development as a complementary technical and creative specialism to your main UAL degree.
+- Develop your skills in Swift coding using Apple, tools and frameworks.
+- Develop computational literacies including an ability to describe the technical requirements of Apple development projects with specialist vocabulary.
+- Enhance your ability to work in multidisciplinary digital teams.
+- Develop computational literacies around Machine leaning approaches and functional AI within the Apple ecosystem.
+- Give you a material understanding of computational technologies.
+
+### Course Learning Outcomes
+
+- Produce Apple development outcomes that show both technical and creative accomplishment
+- Code in Swift and understand the different computational conventions associated with this language.
+- Use Apple development tools to prototype and launch apps
+- Prototype and pitch software applications and interactive experiences.
+- Understand the opportunities that exist as the intersection of your creative practice and computing.
+- Collaborate and use collaborative tools to develop creative software applications.
+
+## Per-Unit Learning Outcomes
+
+### Block 1 Learning Outcomes
+
+- **Coding One**: Swift and Swift UI:
+
+  1. Code application development assets in Swift (Knowledge, Process)
+  2. Demonstrate the use of the Swift GUI frameworks for application development (Knowledge, Process)
+  3. Use Xcode and online repository tools to collaborate and support your development process and manage your code (Knowledge, Process)
+
+- **Product One**: Team App Design, User Experience Research and Rapid prototyping:
+
+  1. Describe and communicate an iOS app concept (Knowledge, Communication)
+  2. Employ relevant methods of user research (Enquiry, Process)
+  3. Produce iOS application prototypes (Realisation)
+
+- **ML One**: Introducing Machine Learning with Core ML.
+
+  1. Describe how machine learning works in practice (Knowledge)
+  2. Discuss artificial Intelligence as a cultural concept (Enquiry)
+  3. Construct applications with the Core ML framework (Process)
+
+### Block 2 Learning Outcomes
+
+Block 2 consists of three units, studied in parallel:
+
+- **Coding Two**: Further Apple Frameworks.  
+
+  1. Identify how games are developed on iOS (Process)
+  2. Employ game development tools and frameworks for iOS (Enquiry)
+  3. Demonstrate foundational concepts of games design (Knowledge)
+
+- **Product Two**: Individual App Design and Launch.
+
+  1. Describe what makes a successful app (Knowledge, Process, Communication)
+  2. Describe the process of launching on the Apple App store (Enquiry)
+  3. Solve common development problems in app production (Realisation)
+
+- **ML Two**: Making Models with Create ML.
+
+  1. Describe how to build ML models (Knowledge, Communication)
+  2. Demonstrate how to use the create ML framework (Process)
+  3. Describe approaches to evaluate your model for bias and discrimination (Enquiry)
+
 ## Thanks
 
-Thanks to Véronique Bolhuis, Brenda Brierley, Lukas Alperowitz, Lise Hansen, Laura Knight, Abbie Vickress, Filippo Romeo, Herman Ho, Val Toro, Murad Khan, Matthew Plummer Fernandez, Alex Fefegha, Anna Troisi, Ben Kelly, Cathy Hoste, Charlotte Webb, Julia Makivic, Kenneth Lim, Matt Jarvis, Melisa Simpson, Phoenix Perry, Rebecca Fiebrink, Sheldon Brown, Tom Lynch, Eva Wilkinson, Vali Lalioti, Indira Knight, Alice Stewart, Ben Stopher, Mick Grierson, Georgina Capdevila Cano, Alan Warburton, Rebecca Ross, Jaap de Maat, Lauren McCarthy, Kyle McDonald, Jonathan Harris, Zach Lieberman, Jessica Bland, Rick Walker, Graham Bennett, Toby Milner-Gulland, Liam Walsh, Golan Levin, Greg Smith, Mark Lundin, Xiaohan Zhang, Lia, Joshua Goldberg, Rosa Menkman, Daniel Shiffman, Tega Brain, Caitlin Morris, Harri Lewis and Rune Madsen.
+Thanks 🙏🏻 to Abbie Vickress, Laura Knight, Rocio Rey Aloe, Becca Rose, Naho Matsuda, Cheska Lotherington, Véronique Bolhuis, Brenda Brierley, Lukas Alperowitz, Lise Hansen, Filippo Romeo, Herman Ho, Val Toro, Murad Khan, Matthew Plummer Fernandez, Alex Fefegha, Anna Troisi, Ben Kelly, Cathy Hoste, Charlotte Webb, Julia Makivic, Kenneth Lim, Matt Jarvis, Melisa Simpson, Phoenix Perry, Rebecca Fiebrink, Sheldon Brown, Tom Lynch, Eva Wilkinson, Vali Lalioti, Indira Knight, Alice Stewart, Ben Stopher, Mick Grierson, Georgina Capdevila Cano, Alan Warburton, Rebecca Ross, Jaap de Maat, Lauren McCarthy, Kyle McDonald, Jonathan Harris, Zach Lieberman, Jessica Bland, Rick Walker, Graham Bennett, Toby Milner-Gulland, Liam Walsh, Golan Levin, Greg Smith, Mark Lundin, Xiaohan Zhang, Lia, Joshua Goldberg, Rosa Menkman, Daniel Shiffman, Tega Brain, Caitlin Morris, Harri Lewis and Rune Madsen.
+
+🖖🏻🇬🇧🏴󠁧󠁢󠁷󠁬󠁳󠁿🏴‍☠️🏳️‍🌈🏳️‍⚧️
