@@ -13,8 +13,10 @@ Lecture slides, wiki and examples from Block 1 of the [Creative Computing Instit
   - Tuesday: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501-01.
     - Block 1: Coding One: Swift and Swift UI
     - Block 2: Coding Two: Further Apple Frameworks
+  - Thursday: 0930-1330, in person at Greencoat room GB_G03, taught by [Murad Khan](https://www.muradkhan.co.uk). NOTE - you will attend Murad's unit until we've learnt enough Swift in the other units.
+    - Block 1: Introducing Computational Futures: Artificial Intelligence and Machine Learning with the Diploma in Creative Computing Cohort.
   - Thursday: 1430-1730, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501-03.
-    - Block 1: ML One: Introducing Machine Learning with Core ML
+    - Block 1: ML One: Introducing Machine Learning with Core ML - NOTE - postponed until we've learnt enough Swift in the other units.
     - Block 2: ML Two: Making Models with Create ML
   - Friday: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501-03.
     - Block 1: Product One: Individual App Design and Launch.
@@ -58,7 +60,7 @@ Block 1 consists of three units, with Coding One and Product One taught in paral
 
 Block 2 consists of three units, studied in parallel:
 
-- **Coding Two**: Further Apple Frameworks. This unit explores further Apple frameworks to develop 2D games. You will gain experience using frameworks such as SpriteKit. Taught by Joel Gethin Lewis and TBC.
+- **Coding Two**: Further Apple Frameworks. This unit explores further Apple frameworks to develop 2D games. You will gain experience using frameworks such as SpriteKit. Taught by Joel Gethin Lewis.
 - **Product Two**: Individual App Design and Launch. In this unit you will develop an app concept for Apple’s iOS. This will give you both an understanding of the development process using the standard Apple development tools and build on your Swift learning in an applied context. Taught by Joel Gethin Lewis.
 - **ML Two**: Making Models with Create ML. This unit explores the creation of bespoke Machine Learning models using Apple tools and specifically the Create ML framework. Taught by TBC.
 
