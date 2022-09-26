@@ -185,6 +185,40 @@ Block 2 consists of three units, studied in parallel:
   2. Demonstrate how to use the create ML framework (Process)
   3. Describe approaches to evaluate your model for bias and discrimination (Enquiry)
 
+## Disability Service information
+
+The Disability Adviser for Creative Computing Institute is Carys Kennedy. Her contact details are c.kennedy@arts.ac.uk or 020 7514 7055. She works work Monday to Thursday, and is based at Camberwell Student Centre on Wednesdays.
+
+All appointments are confidential, and can be in-person, on the phone, or on Microsoft Teams.
+
+### Who can access support
+
+The Disability Service support students who are disabled according to the Equality Act 2010. This includes students with:
+
+- Specific Learning Differences (e.g. dyslexia, ADHD)
+- Long-term health conditions
+- Long-term mental health conditions
+- Sensory impairments (e.g. deaf, hard of hearing, blind, visually impaired)
+- Physical impairments
+- Autism
+- Another long-term condition which has an impact on your day-to-day life
+
+### Support may include...
+
+- An Individual Support Agreement, which lets your course know practical information about how to support you.
+- Adjusted Assessment, such as additional time for certain assignments, or an alternative submission method.
+- Specialist one-to-one support, which can support with essay writing, research, presentations and time management.
+- Support to apply for Disabled Students’ Allowances, which can fund software and one-to-one support for your studies.
+- Screenings and assessments for Specific Learning Differences. 
+
+Call 020 7514 6156 or email disability@arts.ac.uk
+
+More information is available at: <https://www.arts.ac.uk/students/student-services/disability-and-dyslexia>
+
+## Library Service Information
+
+The Librarian for Creative Computing Institute is Benelia Salmon. Her email address is b.salmon@arts.ac.uk. She's also on the CCI Slack. You can find all sorts of useful library information here: <https://arts.ac.libanswers.com>.
+
 ## Thanks
 
 Thanks 🙏🏻 to Abbie Vickress, Laura Knight, Rocio Rey Aloe, Becca Rose, Naho Matsuda, Cheska Lotherington, Véronique Bolhuis, Brenda Brierley, Lukas Alperowitz, Lise Hansen, Filippo Romeo, Herman Ho, Val Toro, Murad Khan, Matthew Plummer Fernandez, Alex Fefegha, Anna Troisi, Ben Kelly, Cathy Hoste, Charlotte Webb, Julia Makivic, Kenneth Lim, Matt Jarvis, Melisa Simpson, Phoenix Perry, Rebecca Fiebrink, Sheldon Brown, Tom Lynch, Eva Wilkinson, Vali Lalioti, Indira Knight, Alice Stewart, Ben Stopher, Mick Grierson, Georgina Capdevila Cano, Alan Warburton, Rebecca Ross, Jaap de Maat, Lauren McCarthy, Kyle McDonald, Jonathan Harris, Zach Lieberman, Jessica Bland, Rick Walker, Graham Bennett, Toby Milner-Gulland, Liam Walsh, Golan Levin, Greg Smith, Mark Lundin, Xiaohan Zhang, Lia, Joshua Goldberg, Rosa Menkman, Daniel Shiffman, Tega Brain, Caitlin Morris, Harri Lewis and Rune Madsen.
