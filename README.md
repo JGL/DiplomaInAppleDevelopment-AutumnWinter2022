@@ -85,17 +85,17 @@ Please read [UAL's guidance for students on how they will be assessed](https://w
 
 - **Coding One**: Swift and Swift UI.
   
-  1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question.
-  2. Practical Exam: students will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. (50%)
+  1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. Test will be sat on Tuesday 24/1/2023, duration two hours. This test will be worth 50% of your overall unit mark.
+  2. Practical Exam: students will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. Exam will be sat on Tuesday 31/1/2023, duration two hours. This exam will be worth 50% of your overall unit mark.
 
 - **Product One**: Team App Design, User Experience Research and Rapid prototyping.
 
-  1. Presentation: You will present your creative work to your peers and upload the ‘slide deck’ from the presentation. (100%)
+  1. Presentation: You will present your creative work to your peers and upload the ‘slide deck’ from the presentation. Presentation will be given on Friday 3/2/2023, duration 30 minutes. This presentation will be worth 100% of your overall unit mark.
 
 - **ML One**: Introducing Machine Learning with Core ML.
 
-  1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. (50%)
-  2. Presentation: You will give a presentation around a Apple ML model to your peers and upload the ‘slide deck’ from the presentation. (50%)
+  1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. Test will be sat on Thursday 26/1/2023, duration two hours. This test will be worth 50% of your overall unit mark.
+  2. Presentation: You will give a presentation around a Apple ML model to your peers and the upload of the ‘slide deck’ from the presentation. Presentation will be given on Thursday 2/2/2023, duration 30 minutes. This presentation will be worth 50% of your overall unit mark.
 
 ### Block 2 Assessment
 
@@ -103,17 +103,17 @@ Block 2 consists of three units, studied in parallel:
 
 - **Coding Two**: Further Apple Frameworks.
 
-  1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. (50%)
-  2. Practical Exam: students will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. (50%)
+  1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. Test will be sat on Tuesday 30/5/2023, duration two hours. This test will be worth 50% of your overall unit mark.
+  2. Practical Exam: students will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. Exam will be sat on Tuesday 6/6/2023, duration two hours. This exam will be worth 50% of your overall unit mark.
 
 - **Product Two**: Individual App Design and Launch.
 
-  1. Presentation: You will present your creative work to your peers and upload the ‘slide deck’ from the presentation. (100%)
+  1. Presentation: You will present your creative work to your peers and upload the ‘slide deck’ from the presentation. Presentation will be given on Thursday 8/6/2023, duration 30 minutes. This presentation will be worth 100% of your overall unit mark.
 
 - **ML Two**: Making Models with Create ML.
 
-  1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. (50%)
-  2. Presentation: You will give a presentation around a bespoke ML model to your peers and upload the ‘slide deck’ from the presentation. (50%)
+  1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. Test will be sat on Friday 2/6/2023. This test will be worth 50% of your overall unit mark.
+  2. Presentation: You will give a presentation around a bespoke ML model to your peers and upload the ‘slide deck’ from the presentation. Presentation will be given on Friday 9/6/2023, duration 30 minutes. This presentation will be worth 50% of your overall unit mark.
 
 Finally, some tips about how to get the best grades possible:
 
