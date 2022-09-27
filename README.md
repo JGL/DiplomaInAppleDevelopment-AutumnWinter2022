@@ -22,6 +22,7 @@ Lecture slides, wiki and examples from Block 1 of the [Creative Computing Instit
     - Block 1: Product One: Individual App Design and Launch.
     - Block 2: Product Two: Further Apple Frameworks  
 - _**You are expected to undertake independent study of about 25 hours per week - spread across all the units of  the Diploma in Apple Development.**_
+- [Course Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=73400)
 - [Lecture and Workshop slides](https://jgl.github.io/DiplomaInAppleDevelopment-AutumnWinter2022/)
 - Please see the [course wiki for all non-lecture notes, reading lists and other resources](https://github.com/JGL/DiplomaInAppleDevelopment-AutumnWinter2022/wiki).
 
