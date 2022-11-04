@@ -15,7 +15,7 @@ Lecture slides, wiki and examples from Block 1 of the [Creative Computing Instit
     - Block 2: Coding Two: Further Apple Frameworks
   - Thursday: 0930-1330, in person at Greencoat room GB_G03, taught by [Murad Khan](https://www.muradkhan.co.uk). NOTE - you will attend Murad's unit until we've learnt enough Swift in the other units.
     - Block 1: Introducing Computational Futures: Artificial Intelligence and Machine Learning with the Diploma in Creative Computing Cohort.
-  - Thursday: 1430-1730, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501-03, taught by [Xiaowan Yi](https://xiaowan-yi.com).
+  - Thursday: 1330-1730, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501-03, taught by [Xiaowan Yi](https://xiaowan-yi.com).
     - Block 1: ML One: Introducing Machine Learning with Core ML - NOTE - postponed until we've learnt enough Swift in the other units.
     - Block 2: ML Two: Making Models with Create ML
   - Friday: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501-03, taught by [Joel Gethin Lewis](https://joelgethinlewis.com).
